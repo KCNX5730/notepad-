@@ -1,0 +1,6 @@
+{
+  "name": "Notepad++ HTML Studio & Web Designer",
+  "description": "Full-featured Notepad++ inspired HTML, CSS & JavaScript IDE and Web Designer with multi-tab editing, responsive live preview, Emmet support, local storage persistence, Git history, and terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
